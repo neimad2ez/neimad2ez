@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Damien</h1>
 <h3 align="center">A Computer Science Student at the University of Southampton</h3>
 
