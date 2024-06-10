@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neimad2ez&label=Profile%20views&color=0e75b6&style=flat" alt="neimad2ez" /> </p>
 
-- 🔭 I’m currently working on **React applications**
+- 🔭 I’m currently working on **React.js**
 
 - 🌱 I’m currently learning **React.js and Python (Machine Learning/AI)**
 
