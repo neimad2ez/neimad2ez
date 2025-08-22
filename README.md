@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damien</h1>
-<h3 align="center">A Second Year BSc Computer Science Student at the University of Southampton (Graduating 2026)</h3>
+<h3 align="center">A Third Year BSc Computer Science Student at the University of Southampton (Graduating 2026)</h3>
 
 - 🔭 I’m currently working on **DevOps tools** like **Jenkins, Ansible**
 
