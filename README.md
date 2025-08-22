@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Damien</h1>
 <h3 align="center">A Second Year BSc Computer Science Student at the University of Southampton (Graduating 2026)</h3>
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **DevOps tools** like **Jenkins, Ansible**
 
-- 🌱 I’m currently learning **React.js and Python (Machine Learning/AI)**
+- 🌱 I’m currently learning **React.js, Python (Machine Learning/AI) and SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/neimad2ez?tab=repositories](https://github.com/neimad2ez?tab=repositories)
 
